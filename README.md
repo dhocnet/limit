@@ -5,6 +5,7 @@ Limit adalah sebuah program simulasi Unix Terminal sederhana serupa PyUnix. Tuju
 Pada versi ini, limit hanya membawa beberapa perintah dasar saja yang tidak disertai dengan parameter yang lengkap.
 
 Oleh: cupucupu <cupu.cupuh@yahoo.co.id>
+
 Info: [Limit Publikasi Awal](http://sites.google.com/site/cuputoyz/limit)
 
 Screenshot
