@@ -9,4 +9,4 @@ Info: [Limit Publikasi Awal](http://sites.google.com/site/cuputoyz/limit)
 
 Screenshot
 ----------
-![Limit Loading](https://goo.gl/cBEW3X) ![Limit - perintah ls](https://goo.gl/hwnk7w) ![Perintah Limit](https://goo.gl/D4B2mR) ![Perintah Limit](https://goo.gl/nv3VSr)
+![Limit Loading](./Screenshot/001.jpg) ![Limit - perintah ls](./Screenshot/002.jpg) ![Perintah Limit](./Screenshot/003.jpg) ![Perintah Limit](./Screenshot/004.jpg)
